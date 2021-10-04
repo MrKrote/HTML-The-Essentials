@@ -36,11 +36,13 @@ Méretre kisebbek de nem méret szerint növekszik a számuk!!
 
 ```lorem```- töltelék text
   
->  
+
+> HTML
+> 
 > Boilerplate OR HTML-Skeleton
 >
 
-<!DOCTYPE html> 
+```<!DOCTYPE html> 
 <html>
 <head>
     <title>Document</title>
@@ -48,12 +50,15 @@ Méretre kisebbek de nem méret szerint növekszik a számuk!!
 <body>
     
 </body>
-</html>
+</html>```
   
-<!DOCTYPE html> - doesn't have closing tag,its just a flag. Basically saying : I am using the  latest featurest of HTML (HTML5)
-<head> </head> - root element , everything else on the page supposed to be a descendant of this element
-<title> </title>  - the title of the website on google,on chrome etc..
-<body> </body> - everything we've typed
+```<!DOCTYPE html>``` - doesn't have closing tag,its just a flag. Basically saying : I am using the  latest featurest of HTML (HTML5)
+
+```<head> </head>``` - root element , everything else on the page supposed to be a descendant of this element
+
+```<title> </title>```  - the title of the website on google,on chrome etc..
+
+```<body> </body>``` - everything we've typed
 
 Shortcut: write ! to VsCode and hit Tab.
   

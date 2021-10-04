@@ -23,10 +23,10 @@ Common Elements:
 > Headers
 >
   
-<h1> Cím </h1> - mindig csak egy van belőle
-<h2> SubTopic1 </h2>
-<h3> SubTopic1SubTopicja </h3>
-<h2> SubTopic2 </h2>
+```<h1> Cím </h1>``` - mindig csak egy van belőle
+```<h2> SubTopic1 </h2>```
+```<h3> SubTopic1SubTopicja </h3>```
+```<h2> SubTopic2 </h2>```
 
 Méretre kisebbek de nem méret szerint növekszik a számuk!!
 lorem- töltelék text

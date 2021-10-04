@@ -62,6 +62,6 @@ Méretre kisebbek de nem méret szerint növekszik a számuk!!
 
 ```<body> </body>``` - everything we've typed
 
-Shortcut: write ! to VsCode and hit Tab.
+**Shortcut**: write ! to VsCode and hit Tab.
   
   

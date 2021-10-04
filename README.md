@@ -2,7 +2,8 @@
 
 >  
 > HTML
->
+> MDN Web Docs - Resources for developers (HTML , CSS,  JS)
+> Link : https://developer.mozilla.org/en-US/
 **HTML is a markup language.**
 
 Common Elements:
@@ -14,9 +15,6 @@ Common Elements:
 ```<img>``` element - embeds an image
 
 ```<form>``` element - represents a form
-  
-MDN Web Docs - Resources for developers (HTML , CSS,  JS)
-Link : https://developer.mozilla.org/en-US/
  
 >  
 > Headers

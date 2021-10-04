@@ -33,7 +33,8 @@ Common Elements:
 ```<h2> SubTopic2 </h2>```
 
 Méretre kisebbek de nem méret szerint növekszik a számuk!!
-lorem- töltelék text
+
+```lorem```- töltelék text
   
 >  
 > Boilerplate OR HTML-Skeleton

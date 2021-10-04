@@ -7,8 +7,11 @@ HTML is a markup language.
 
 Common Elements:
 ```<p>``` element - represents a paragraph of text
+
 ```<h1>``` element - represents the main header on a page
+
 ```<img>``` element - embeds an image
+
 ```<form>``` element - represents a form
   
 MDN Web Docs - Resources for developers (HTML , CSS,  JS)

@@ -139,7 +139,7 @@ OR
 Shift + Alt + F
 
 
-***Comment in HTML - <!-- -->***
+***Comment in HTML <!-- -->***
 
 ```<!-- THIS IS A COMMENT -->```
 

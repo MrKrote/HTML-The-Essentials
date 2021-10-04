@@ -105,3 +105,23 @@ Link to an another website:  ```<a href="http://www.facebook.com"> I am a link t
 Link to my own website : ```<a href="about.html"> This is a link to my own <b>About Me</b> website</a>```
 
 Link as a world in the text : ```<a href="https://en.wikipedia.org/wiki/Capon">capon</a>```
+
+> HTML
+>
+> Images - ``` <img src="">``` 
+>
+
+Picture on my computer: ```<img src="chicken.JPG">```
+
+Picture on my computer in a folder: ```<img src="pictures/chicken.JPG">```
+
+Picture from the internet: (Képcím másolása)
+```
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%E0%B0%95%E0%B1%8B%E0%B0%A1%E0%B0%BF_%E0%B0%AA%E0%B0%BF%E0%B0%B2%E0%B1%8D%E0%B0%B2IMG20191207080730-01.jpg/298px-%E0%B0%95%E0%B1%8B%E0%B0%A1%E0%B0%BF_%E0%B0%AA%E0%B0%BF%E0%B0%B2%E0%B1%8D%E0%B0%B2IMG20191207080730-01.jpg">
+```
+
+Alt element (if the image can't be load): ```<img src="pictures/chicken.JPG"  alt="My pet chicken">```
+
+Width element to size the image: ```<img src="pictures/chicken.JPG" width="200px">```
+
+

@@ -3,9 +3,10 @@
 >  
 > HTML
 >
-HTML is a markup language.
+**HTML is a markup language.**
 
 Common Elements:
+
 ```<p>``` element - represents a paragraph of text
 
 ```<h1>``` element - represents the main header on a page

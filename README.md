@@ -64,7 +64,6 @@ Méretre kisebbek de nem méret szerint növekszik a számuk!!
 
 **Shortcut**: write ! to VsCode and hit Tab.
 
->  
 > HTML
 >
 > Ordered and Unordered Lists
@@ -95,3 +94,14 @@ Méretre kisebbek de nem méret szerint növekszik a számuk!!
     </li>
 </ul>
 ```
+
+> HTML
+>
+> The Anchor element - LINKS  ```<a> </a>``` 
+>
+
+Link to an another website:  ```<a href="http://www.facebook.com"> I am a link to facebook!!</a>```
+
+Link to my own website : ```<a href="about.html"> This is a link to my own <b>About Me</b> website</a>```
+
+Link as a world in the text : ```<a href="https://en.wikipedia.org/wiki/Capon">capon</a>```

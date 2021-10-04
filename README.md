@@ -132,7 +132,7 @@ Width element to size the image: ```<img src="pictures/chicken.JPG" width="200px
 ***VsCode Shortcut***
 
 CTRL + Shift + P to get the search bar
->format document
+-> format document
 
 OR
 

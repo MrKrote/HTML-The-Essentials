@@ -120,8 +120,27 @@ Picture from the internet: (Képcím másolása)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%E0%B0%95%E0%B1%8B%E0%B0%A1%E0%B0%BF_%E0%B0%AA%E0%B0%BF%E0%B0%B2%E0%B1%8D%E0%B0%B2IMG20191207080730-01.jpg/298px-%E0%B0%95%E0%B1%8B%E0%B0%A1%E0%B0%BF_%E0%B0%AA%E0%B0%BF%E0%B0%B2%E0%B1%8D%E0%B0%B2IMG20191207080730-01.jpg">
 ```
 
-Alt element (if the image can't be load): ```<img src="pictures/chicken.JPG"  alt="My pet chicken">```
+Alt element (if the image can't be load - describes): ```<img src="pictures/chicken.JPG"  alt="My pet chicken">```
 
 Width element to size the image: ```<img src="pictures/chicken.JPG" width="200px">```
 
+> HTML
+>
+> EXTRAS
+>
 
+***VsCode Shortcut***
+
+CTRL + Shift + P to get the search bar
+>format document
+
+OR
+
+Shift + Alt + F
+
+
+***Comment in HTML - <!-- -->***
+
+```<!-- THIS IS A COMMENT -->```
+
+Shortcut in VsCode : CRTL + Ü

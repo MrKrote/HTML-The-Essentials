@@ -42,7 +42,8 @@ Méretre kisebbek de nem méret szerint növekszik a számuk!!
 > Boilerplate OR HTML-Skeleton
 >
 
-```<!DOCTYPE html> 
+```
+<!DOCTYPE html> 
 <html>
 <head>
     <title>Document</title>
@@ -50,7 +51,8 @@ Méretre kisebbek de nem méret szerint növekszik a számuk!!
 <body>
     
 </body>
-</html>```
+</html>
+```
   
 ```<!DOCTYPE html>``` - doesn't have closing tag,its just a flag. Basically saying : I am using the  latest featurest of HTML (HTML5)
 

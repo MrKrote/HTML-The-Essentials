@@ -63,5 +63,35 @@ Méretre kisebbek de nem méret szerint növekszik a számuk!!
 ```<body> </body>``` - everything we've typed
 
 **Shortcut**: write ! to VsCode and hit Tab.
-  
-  
+
+>  
+> HTML
+>
+> Ordered and Unordered Lists
+>
+
+***Ordered Lists*** - ```<ol> </ol>```
+```
+<ol>
+    <li>Bantam
+        <ol>
+            <li>Silkie</li>
+            <li>Polish</li>
+        </ol>
+    </li>
+</ol>
+```
+
+***Unordered Lists*** - ```<ul> </ul>```
+
+
+```
+<ul>
+    <li>Bantam
+        <ul>
+            <li>Silkie</li>
+            <li>Polish</li>
+        </ul>
+    </li>
+</ul>
+```

@@ -18,6 +18,7 @@ Common Elements:
 
 ```<form>``` element - represents a form
  
+&nbsp;
 
 >HTML
 >
@@ -36,6 +37,7 @@ Méretre kisebbek de nem méret szerint növekszik a számuk!!
 
 ```lorem```- töltelék text
   
+&nbsp;
 
 > HTML
 > 
@@ -63,6 +65,8 @@ Méretre kisebbek de nem méret szerint növekszik a számuk!!
 ```<body> </body>``` - everything we've typed
 
 **Shortcut**: write ! to VsCode and hit Tab.
+
+&nbsp;
 
 > HTML
 >
@@ -95,6 +99,8 @@ Méretre kisebbek de nem méret szerint növekszik a számuk!!
 </ul>
 ```
 
+&nbsp;
+
 > HTML
 >
 > The Anchor element - LINKS  ```<a> </a>``` 
@@ -123,6 +129,8 @@ Picture from the internet: (Képcím másolása)
 Alt element (if the image can't be load - describes): ```<img src="pictures/chicken.JPG"  alt="My pet chicken">```
 
 Width element to size the image: ```<img src="pictures/chicken.JPG" width="200px">```
+
+&nbsp;
 
 > HTML
 >

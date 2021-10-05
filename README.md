@@ -112,6 +112,8 @@ Link to my own website : ```<a href="about.html"> This is a link to my own <b>Ab
 
 Link as a world in the text : ```<a href="https://en.wikipedia.org/wiki/Capon">capon</a>```
 
+&nbsp;
+
 > HTML
 >
 > Images - ``` <img src="">``` 
